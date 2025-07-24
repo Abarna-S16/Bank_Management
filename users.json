@@ -1,0 +1,8 @@
+{
+    "next_account_id": 1001,
+    "admin": {
+        "name": "Admin",
+        "password": "Admin@123"
+    },
+    "active_users": {},
+    "deleted_users": {}
