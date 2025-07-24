@@ -1,7 +1,7 @@
 # 💰 Bank Management System (Python CLI Project)
 
 A console-based Bank Management System written in Python that supports user registration, login authentication, deposit/withdraw transactions, and a full-featured admin dashboard to manage users.
-
+Developed using PyCharm
 ---
 
 ## 🛠️ Features
@@ -115,18 +115,9 @@ README.md            # Project documentation
 
 ---
 
-## ✨ Screenshots (Optional)
-
-You can add console screenshots of:
-- User menu
-- Admin dashboard
-- Transaction history
-
----
-
 ## 🙌 Author
 
-Developed by [Your Name](https://github.com/yourusername)
+Developed by [Abarna](https://github.com/Abarna-S16)
 
 ---
 
