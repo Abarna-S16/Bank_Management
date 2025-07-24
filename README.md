@@ -1,6 +1,6 @@
 # 💰 Bank Management System (Python CLI Project)
 
-## A console-based Bank Management System written in Python that supports user registration, login authentication, deposit/withdraw transactions, and a full-featured admin dashboard to manage users.
+### A console-based Bank Management System written in Python that supports user registration, login authentication, deposit/withdraw transactions, and a full-featured admin dashboard to manage users.
 Developed using PyCharm
 ---
 
